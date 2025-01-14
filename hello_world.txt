@@ -1,0 +1,5 @@
+
+"Modified, Staged, Committed-Git is a DVCS which stores data as snapshots of proj.'s over time, Centralized VCS uses Deltas"
+
+git add . will add all files in current directory and all subsequent dir's to the staging area
+
